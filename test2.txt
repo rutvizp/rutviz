@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FE67-6167
+
+ Directory of C:\Users\Rutviz\repo\rutviz
+
+21-09-2026  12:31    <DIR>          .
+21-09-2026  12:28    <DIR>          ..
+21-09-2026  12:31               114 test.txt
+21-09-2026  12:31                 0 test2.txt
+               2 File(s)            114 bytes
+               2 Dir(s)  42,903,855,104 bytes free
